@@ -8,7 +8,7 @@ Welcome to the your ultimate destination for all your shopping needs! Dive into 
 
 ## Usage
 
-Simply open `index.html` in your favorite web browser to view the project.
+Simply open `npm start` in your favorite web browser to view the project.
 
 ## Customization
 
