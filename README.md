@@ -5,7 +5,6 @@ Welcome to the your ultimate destination for all your shopping needs! Dive into 
 ## Installation
 
 1. Clone this repository: `git clone https://github.com/your-username/awesome-project.git`
-2. Open `index.html` in your browser.
 
 ## Usage
 
