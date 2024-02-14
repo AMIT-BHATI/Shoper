@@ -19,9 +19,9 @@ Feel free to customize the HTML and CSS files to fit your needs. Add your own im
 
 Here are some screenshots of the project:
 
-![Screenshot 1](/assets/images/1.png)
-![Screenshot 2](/assets/images/2.png)
-![Screenshot 1](/assets/images/3.png)
+![Screenshot 1](/src/assets/1.png)
+![Screenshot 2](/src/assets/2.png)
+![Screenshot 1](/src/assets/3.png)
 
 ## Contributing
 
